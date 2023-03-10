@@ -1,0 +1,45 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #252A33;
+  --color-bg-base: #2E3440;
+  --color-bg-surface: #373E4D;
+  --color-bg-highlight: #40495A;
+  --color-fg-shade: #9FADC9;
+  --color-fg-base: #D8DEE9;
+  --color-fg-surface: #FFFFFF;
+  --color-fg-highlight: #FFFFFF;
+  --color-primary-bg: #662A2F;
+  --color-primary-base: #BF616A;
+  --color-primary-fg: #E9C7CB;
+  --color-secondary-bg: #35506C;
+  --color-secondary-base: #81A1C1;
+  --color-secondary-fg: #EDF2F6;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+
+  /** general */
+  --font-family: Golos Text;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 1280px;
+  --surface-shadow: 0px 0px 4px rgb(102, 42, 47), 0px 0px 4px rgb(98.9375, 44.375, 50.8125), 0px 0px 4px rgb(95.875, 46.75, 54.625), 0px 0px 4px rgb(92.8125, 49.125, 58.4375), 0px 0px 4px rgb(89.75, 51.5, 62.25), 0px 0px 4px rgb(86.6875, 53.875, 66.0625), 0px 0px 4px rgb(83.625, 56.25, 69.875), 0px 0px 4px rgb(80.5625, 58.625, 73.6875), 0px 0px 4px rgb(77.5, 61, 77.5), 0px 0px 4px rgb(74.4375, 63.375, 81.3125), 0px 0px 4px rgb(71.375, 65.75, 85.125), 0px 0px 4px rgb(68.3125, 68.125, 88.9375), 0px 0px 4px rgb(65.25, 70.5, 92.75), 0px 0px 4px rgb(62.1875, 72.875, 96.5625), 0px 0px 4px rgb(59.125, 75.25, 100.375), 0px 0px 4px rgb(56.0625, 77.625, 104.1875), 0px 0px 4px rgb(53, 80, 108);
+  --surface-borderRadius: 0px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 3;
+}
